@@ -3,7 +3,7 @@ Surname : Samakande
 Reg Number : H230617G
 School : School of Information Sciences & Technology
 Department : Honours Degree In Information Security and Assurance
-Title : Research Methods Assignment 1
+Title : ISS1201 Secure Coding Mini Project
 Part : 2.1
 
 # Virtual-Classroom
